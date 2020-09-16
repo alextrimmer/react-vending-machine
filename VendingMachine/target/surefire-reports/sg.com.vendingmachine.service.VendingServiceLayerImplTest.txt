@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: sg.com.vendingmachine.service.VendingServiceLayerImplTest
--------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.469 sec - in sg.com.vendingmachine.service.VendingServiceLayerImplTest
