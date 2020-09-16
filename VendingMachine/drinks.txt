@@ -1,0 +1,7 @@
+Coke::1.5::3
+Sprite::1.5::1
+Fanta::2::0
+Water::1::5
+Gatorade::1.75::1
+Red Bull::3.25::3
+Rockstar::1.25::4
